@@ -1,0 +1,23 @@
+/**
+ * styles.scss
+ * Compass files for googly thorin
+ * 11/05/13 Mojiferous
+ */
+
+body {
+  background-color: #009600;
+  text-align: center;
+}
+
+#main-frame {
+  width: 715px;
+  height: 670px;
+  display: block;
+  background: url("../images/frame.png") no-repeat;
+  margin: auto;
+  padding-top: 200px;
+}
+
+.hidden {
+  display: none;
+}
